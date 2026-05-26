@@ -51,7 +51,7 @@ Interactive Power BI dashboard with KPIs, trend analysis, and geographic trip vi
 The dashboard helps analyze operational performance, customer demand, and driver earnings trends for better business insights.
 
 ## Dashboard Screenshot
-
+https://github.com/priyapatel96140/OLA-Trip-Analysis-PowerBI/blob/main/ola-power-bi-dashboard.png
 
 
 ## Author 
